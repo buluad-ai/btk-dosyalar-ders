@@ -1,0 +1,98 @@
+[
+  {
+    "day": 7,
+    "file": "gun07/05_hazir_script_uyarlama.py",
+    "title": "Hazır scripti AYARLAR bölümünden uyarlama",
+    "expected": "Liste: outputs/gun07/05_esik_asanlar.csv",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/06_filtre_parametreleri_bos.py",
+    "title": "Canlı kodlama iskeleti: argparse filtreleri",
+    "expected": "Eşleşen kayıt: 600",
+    "source": "https://docs.python.org/3/library/argparse.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/06_filtre_parametreleri.py",
+    "title": "argparse: --il, --operator, --baslangic, --bitis",
+    "expected": "Eşleşen kayıt: 600",
+    "source": "https://docs.python.org/3/library/argparse.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/basit_xlsx.py",
+    "title": "B planı: paketsiz .xlsx okuma/yazma",
+    "expected": "basit_xlsx deneme: yaz-oku tutarlı",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/07_pipeline_stdlib.py",
+    "title": "Uçtan uca pipeline (stdlib): oku-temizle-SQLite-rapor",
+    "expected": "Rapor: outputs/gun07/rapor_stdlib.html",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/08_pipeline_pandas_opsiyonel.py",
+    "title": "Uçtan uca pipeline (pandas+matplotlib)",
+    "expected": "Rapor: outputs/gun07/rapor_pandas.html",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_sql.html",
+    "optional": true
+  },
+  {
+    "day": 7,
+    "file": "gun07/09_iki_yol_karsilastir_opsiyonel.py",
+    "title": "İki yolun aynı ana sayıları ürettiğini doğrulama",
+    "expected": "Sonuç: iki yol AYNI ana sayıları üretti.",
+    "source": "https://docs.python.org/3/library/subprocess.html",
+    "optional": true
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart1_kapsama_iller.py",
+    "title": "Proje kartı 1: Kapsama şikâyetleri hangi illerde yoğun?",
+    "expected": "Pay olarak en yoğun il: Erzurum (%17.6)",
+    "source": "https://docs.python.org/3/library/collections.html#collections.Counter",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart2_fiber_vaat.py",
+    "title": "Proje kartı 2: Fiber paketler vaat edilen hızı veriyor mu?",
+    "expected": "Fiber ölçüm: 139 | %80 eşiğini geçen: %24",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart3_kanal_cozum.py",
+    "title": "Proje kartı 3: Hangi kanal daha hızlı çözüm alıyor?",
+    "expected": "En hızlı kanal (ortalama): Çağrı Merkezi 9.27 gün",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart4_hedef_asimi.py",
+    "title": "Proje kartı 4: Hedef süre aşımı operatörlere göre",
+    "expected": "Hedef aşım oranı en yüksek operatör: Operatör C",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/cozumler_ek.py",
+    "title": "Gün 7 ek alıştırma çözümleri",
+    "expected": "Gün 7 ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/library/unittest.html",
+    "optional": false
+  }
+]

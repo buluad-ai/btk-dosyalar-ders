@@ -1,0 +1,146 @@
+[
+  {
+    "day": 6,
+    "file": "gun06/06_grafik_secimi.py",
+    "title": "Hangi soru, hangi grafik?",
+    "expected": "Sonuç: grafik türünü soru belirler.",
+    "source": "https://docs.python.org/3/library/collections.html#collections.Counter",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/07_ilk_grafik_bos_opsiyonel.py",
+    "title": "Canlı kodlama iskeleti: ilk matplotlib grafiği",
+    "expected": "İskelet çalıştı: outputs/gun06/07_iskelet.png",
+    "source": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/07_ilk_grafik_opsiyonel.py",
+    "title": "Matplotlib: figure/axes, bar, bar_label, savefig",
+    "expected": "Grafik kaydedildi: outputs/gun06/07_kategori_bar.png",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.bar_label.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/08_sirali_barh_opsiyonel.py",
+    "title": "Sıralı yatay çubuk ve vurgu rengi",
+    "expected": "En yoğun il: İstanbul (185)",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.barh.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/09_cizgi_trend_opsiyonel.py",
+    "title": "Çizgi grafiği: aylık şikâyet trendi",
+    "expected": "En yoğun ay: Haz (87 şikâyet)",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.plot.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/10_histogram_opsiyonel.py",
+    "title": "Histogram: indirme hızı dağılımı",
+    "expected": "Ortalama: 77.9 Mbps, medyan: 51.0 Mbps",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hist.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/11_boxplot_opsiyonel.py",
+    "title": "Kutu grafiği: teknolojiye göre hız",
+    "expected": "Fiber medyan: 142.4 Mbps",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/12_scatter_opsiyonel.py",
+    "title": "Serpme grafiği ve y=x referans çizgisi",
+    "expected": "Grafik kaydedildi: outputs/gun06/12_paket_vs_olculen.png",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.scatter.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/13_dashboard_opsiyonel.py",
+    "title": "Tek sayfada 2x2 dashboard",
+    "expected": "Dashboard kaydedildi: outputs/gun06/13_dashboard.png",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/14_seaborn_temel_opsiyonel.py",
+    "title": "Seaborn: countplot, barplot, histplot, boxplot",
+    "expected": "Seaborn grafikleri kaydedildi: outputs/gun06/14_seaborn_dortlu.png",
+    "source": "https://seaborn.pydata.org/tutorial.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/15_seaborn_heatmap_opsiyonel.py",
+    "title": "Isı haritası: il x kategori, adet ve oran",
+    "expected": "Kapsama payı en yüksek il: Erzurum (%17.6)",
+    "source": "https://seaborn.pydata.org/generated/seaborn.heatmap.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/16_pandas_plot_opsiyonel.py",
+    "title": "pandas .plot() kısayolu",
+    "expected": "pandas grafikleri kaydedildi: outputs/gun06/16_pandas_plot.png",
+    "source": "https://pandas.pydata.org/docs/user_guide/visualization.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/svg_cizim.py",
+    "title": "B planı: hazır SVG çizim fonksiyonları",
+    "expected": "SVG yardımcı deneme: outputs/gun06/svg_deneme.svg",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/17_svg_cizgi_aylik.py",
+    "title": "B planı: paketsiz çizgi grafiği",
+    "expected": "Ay sayısı: 9, toplam: 600",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/polyline",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/18_svg_yatay_bar.py",
+    "title": "B planı: paketsiz sıralı yatay çubuk",
+    "expected": "En yoğun il: İstanbul (185)",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/rect",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/19_html_dashboard.py",
+    "title": "B planı: HTML dashboard (SVG + tablo)",
+    "expected": "Dashboard: outputs/gun06/19_dashboard.html",
+    "source": "https://docs.python.org/3/library/html.html",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/cozumler_ek.py",
+    "title": "Gün 6 ek alıştırma çözümleri (paketsiz)",
+    "expected": "Gün 6 ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/cozumler_ek_opsiyonel.py",
+    "title": "Gün 6 ek alıştırma çözümleri (matplotlib)",
+    "expected": "Gün 6 matplotlib çözümleri tamamlandı.",
+    "source": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "optional": true
+  }
+]

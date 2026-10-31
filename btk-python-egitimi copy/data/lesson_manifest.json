@@ -1,0 +1,1042 @@
+[
+  {
+    "day": 1,
+    "file": "gun01/01_merhaba.py",
+    "title": "Script, yorum ve çıktı",
+    "expected": "Merhaba BTK!",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/02_veri_tipleri.py",
+    "title": "Temel veri tipleri",
+    "expected": "Toplam: 20",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/03_algoritma.py",
+    "title": "Algoritma: toplamdan ortalamaya",
+    "expected": "Ortalama: 5.00 gün",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/04_metin_ve_hata.py",
+    "title": "Metin işlemleri ve kontrollü hata",
+    "expected": "Program tamamlandı.",
+    "source": "https://docs.python.org/3/tutorial/errors.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/05_python_ve_c.py",
+    "title": "Python nedir ve C'den farkı",
+    "expected": "Python ve C karşılaştırması bitti.",
+    "source": "https://docs.python.org/3/faq/general.html#what-is-python",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/06_script_nasil_calisir.py",
+    "title": "Script nasıl çalışır, yorum ve print",
+    "expected": "Adım 5: dosyanın sonu",
+    "source": "https://docs.python.org/3/tutorial/interpreter.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/07_degiskenler_ve_adlandirma.py",
+    "title": "Değişken ve adlandırma kuralları",
+    "expected": "Toplam tutar: 1200.0 TL",
+    "source": "https://peps.python.org/pep-0008/",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/08_tur_donusumu.py",
+    "title": "Veri tipleri ve tür dönüşümü",
+    "expected": "Tür dönüşümü örnekleri bitti.",
+    "source": "https://docs.python.org/3/library/functions.html#int",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/09_aritmetik_operatorler.py",
+    "title": "Aritmetik operatörler ve işlem önceliği",
+    "expected": "150 dakika = 2 saat 30 dakika",
+    "source": "https://docs.python.org/3/reference/expressions.html#operator-precedence",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/10_metin_islemleri.py",
+    "title": "Metin işlemleri: f-string, metotlar, dilim",
+    "expected": "Yıl: 2026 | Ay: 10 | Gün: 14",
+    "source": "https://docs.python.org/3/library/stdtypes.html#string-methods",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/11_algoritma_ornekleri.py",
+    "title": "Algoritma örnekleri: KDV, fatura, hız, ortalama",
+    "expected": "Fatura toplamı: 570.00 TL",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/12_hata_mesaji_okuma.py",
+    "title": "Hata mesajı (Traceback) okuma",
+    "expected": "Hata okuma turu bitti: 6 hata türü görüldü.",
+    "source": "https://docs.python.org/3/tutorial/errors.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/13_hiz_raporu.py",
+    "title": "Canlı kodlama: hız raporu (tamamlanmış)",
+    "expected": "1000 MB indirme süresi: 1 dk 42 sn",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/13_hiz_raporu_bos.py",
+    "title": "Canlı kodlama iskeleti: hız raporu",
+    "expected": "TODO sayısı: 7",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 1,
+    "file": "gun01/cozumler_ek.py",
+    "title": "Gün 1 seviyeli alıştırma çözümleri",
+    "expected": "Gün 1 ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/tutorial/introduction.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/01_kararlar.py",
+    "title": "Koşul ve girinti",
+    "expected": "İnceleme gerekli",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/02_listeler_donguler.py",
+    "title": "Liste, for ve biriktirme",
+    "expected": "Toplam: 32",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/03_kayitlar.py",
+    "title": "Sözlük, tuple ve küme",
+    "expected": "Tekil birimler: ['A', 'B']",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/04_while_ve_sayim.py",
+    "title": "Sınırlı while ve kategorileri sayma",
+    "expected": "Bilgi sayısı: 2",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/05_karsilastirma_mantiksal.py",
+    "title": "Karşılaştırma ve mantıksal operatörler",
+    "expected": "Karşılaştırma örnekleri bitti.",
+    "source": "https://docs.python.org/3/library/stdtypes.html#comparisons",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/06_sikayet_onceliklendirme.py",
+    "title": "if/elif/else: şikâyet önceliği ve SLA",
+    "expected": "HEDEF AŞILDI (2 gün gecikme)",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#if-statements",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/07_listeler.py",
+    "title": "Liste işlemleri",
+    "expected": "Adet: 10 | Toplam: 79 | Ortalama: 7.90",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html#more-on-lists",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/08_for_range_enumerate_zip.py",
+    "title": "for, range, enumerate, zip",
+    "expected": "Toplam 15 şikâyet, 6 il.",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#for-statements",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/09_biriktirme_sayac.py",
+    "title": "Biriktirme ve sayaç kalıpları",
+    "expected": "En uzun: 15 gün (sıra 6)",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/10_sozlukler.py",
+    "title": "Sözlük: kayıt, sayım, DÜŞEYARA",
+    "expected": "Kesinti hedefi: 5 gün",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html#dictionaries",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/11_tuple_set.py",
+    "title": "Tuple ve set",
+    "expected": "Farklı il sayısı: 6",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/12_pythona_ozgu_yapilar.py",
+    "title": "Python'a özgü yapılar: list comprehension",
+    "expected": "Kısa yol : [11, 15, 13]",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/13_while_break_continue.py",
+    "title": "while, break, continue",
+    "expected": "İlk hedef aşımı: 10527 (10 gün > 7)",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/14_tablo_liste_sozluk.py",
+    "title": "Liste içinde sözlük = tablo",
+    "expected": "Ankara satırları: 2",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/15_mini_proje.py",
+    "title": "Gün 2 mini proje: şikâyet özeti",
+    "expected": "Hedef aşan: 5 / 12 sonuçlanmış şikâyet (%41.7)",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/15_mini_proje_bos.py",
+    "title": "Mini proje iskeleti",
+    "expected": "İskelet çalıştı. TODO sayısı: 5",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html",
+    "optional": false
+  },
+  {
+    "day": 2,
+    "file": "gun02/cozumler_ek.py",
+    "title": "Gün 2 seviyeli alıştırma çözümleri",
+    "expected": "Gün 2 ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/01_fonksiyonlar.py",
+    "title": "Fonksiyon ve return",
+    "expected": "Boş liste: None",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/02_dosya_okuma_yazma.py",
+    "title": "Dosya yolu ve UTF-8",
+    "expected": "Dosya kaydedildi: not.txt",
+    "source": "https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/03_csv_okuma.py",
+    "title": "CSV dosyasından kayıt okuma",
+    "expected": "Süre toplamı: 192",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/04_json_ve_dogrulama.py",
+    "title": "JSON ve hatalı veriyi ayırma",
+    "expected": "Hatalı kayıt sayısı: 2",
+    "source": "https://docs.python.org/3/library/json.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/05_fonksiyon_parametreleri.py",
+    "title": "Varsayılan parametre, return ve çoklu dönüş",
+    "expected": "KDV dahil: 1200.00 TL",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#default-argument-values",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/06_hazir_moduller.py",
+    "title": "Standart kütüphane: math, statistics, random, pathlib",
+    "expected": "Gereken sayfa: 13",
+    "source": "https://docs.python.org/3/tutorial/stdlib.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/07_kendi_modulum.py",
+    "title": "Kendi modülünü import etmek",
+    "expected": "Şikâyet sayısı: 600",
+    "source": "https://docs.python.org/3/tutorial/modules.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/08_tarihler.py",
+    "title": "datetime ile gün farkı, ay ve hafta günü",
+    "expected": "En yoğun ay: Haziran",
+    "source": "https://docs.python.org/3/library/datetime.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/09_log_dosyasi.py",
+    "title": "Metin dosyası yazma kipleri ve log",
+    "expected": "UYARI satırı: 2",
+    "source": "https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/10_sikayet_csv_okuma.py",
+    "title": "Büyük CSV, tür dönüşümü ve boş hücre",
+    "expected": "Toplam şikâyet: 600",
+    "source": "https://docs.python.org/3/library/csv.html#csv.DictReader",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/11_csv_filtrele_yaz.py",
+    "title": "Filtreleyip Excel uyumlu CSV yazma",
+    "expected": "Geri okunan satır: 24",
+    "source": "https://docs.python.org/3/library/csv.html#csv.DictWriter",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/12_json_okuma_yazma.py",
+    "title": "JSON özet yazma ve geri okuma",
+    "expected": "JSON geri okundu: 8 il",
+    "source": "https://docs.python.org/3/library/json.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/13_hatali_satirlar.py",
+    "title": "try/except/else/finally ile kirli veri",
+    "expected": "Temiz: 20, Hatalı: 6",
+    "source": "https://docs.python.org/3/tutorial/errors.html#handling-exceptions",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/14_parametreli_script.py",
+    "title": "sys.argv ile parametreli script",
+    "expected": "Ankara: 107 şikâyet",
+    "source": "https://docs.python.org/3/library/sys.html#sys.argv",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/15_mini_sla_raporu.py",
+    "title": "Mini proje: kategori bazında SLA raporu",
+    "expected": "Toplam çözülen: 415",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/15_mini_sla_raporu_bos.py",
+    "title": "Canlı kodlama iskeleti: SLA raporu",
+    "expected": "İskelet çalıştı: 600 kayıt okundu",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/cozumler_ek.py",
+    "title": "Gün 3 ek alıştırma çözümleri",
+    "expected": "İ3 İş günü (02.03.2026-16.03.2026): 11",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/yardimcilar.py",
+    "title": "Kendi modülümüz ve kendi kendine testi",
+    "expected": "yardimcilar modülü kendi testini geçti",
+    "source": "https://docs.python.org/3/tutorial/modules.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/01_veri_modeli.py",
+    "title": "Veri modeli ve benzersiz kimlik",
+    "expected": "Benzersiz kimlik: 36",
+    "source": "https://docs.python.org/3/tutorial/datastructures.html#dictionaries",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/02_class_tanisma.py",
+    "title": "Küçük class örneği",
+    "expected": "Eşiği aştı: True",
+    "source": "https://docs.python.org/3/tutorial/classes.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/03_sqlite_sorgu.py",
+    "title": "SQLite oluşturma ve parametreli sorgu",
+    "expected": "5 günü aşan kayıt: 12",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/04_sql_birlestirme.py",
+    "title": "JOIN ve GROUP BY",
+    "expected": "Tuketici: 12 kayıt, 2.5 gün",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/05_veri_modeli_sikayet.py",
+    "title": "Tablo, birincil anahtar ve 1-N ilişki",
+    "expected": "Birincil anahtar tekil: 600/600",
+    "source": "https://www.sqlite.org/lang_createtable.html#the_primary_key",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/06_sikayet_sinifi.py",
+    "title": "Sikayet sınıfı ve dataclass",
+    "expected": "Hedefi aşan çözülmüş şikâyet: 165",
+    "source": "https://docs.python.org/3/tutorial/classes.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/07_sqlite_yukleme.py",
+    "title": "CREATE TABLE ve executemany ile toplu yükleme",
+    "expected": "NULL çözüm süresi: 96",
+    "source": "https://docs.python.org/3/library/sqlite3.html#sqlite3.Cursor.executemany",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/08_select_where_order.py",
+    "title": "SELECT, WHERE, ORDER BY, LIMIT",
+    "expected": "Ankara'da çözülen fatura şikâyeti: 19",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/09_toplama_gruplama.py",
+    "title": "COUNT/AVG/SUM, GROUP BY ve HAVING",
+    "expected": "100'den fazla şikâyeti olan il sayısı: 2",
+    "source": "https://www.sqlite.org/lang_aggfunc.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/10_join_hedefler.py",
+    "title": "JOIN ve LEFT JOIN: DÜŞEYARA'nın SQL hâli",
+    "expected": "Hedefi en sık aşılan kategori: İnternet Hızı",
+    "source": "https://www.sqlite.org/lang_select.html#the_from_clause",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/11_update_delete_guvenli.py",
+    "title": "Kopya üzerinde UPDATE, DELETE ve rollback",
+    "expected": "Asıl veritabanı değişmedi: 600 şikâyet",
+    "source": "https://www.sqlite.org/lang_update.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/12_sql_injection_parametre.py",
+    "title": "Parametreli sorgu ve SQL injection",
+    "expected": "Kötü girdi -> Parametreli sorgu: 0 satır",
+    "source": "https://docs.python.org/3/library/sqlite3.html#sqlite3-placeholders",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/13_excel_stdlib_okuma.py",
+    "title": "Paketsiz .xlsx okuma (zipfile + xml)",
+    "expected": "Hedefler: 6 kategori",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/14_excel_openpyxl_opsiyonel.py",
+    "title": "openpyxl ile .xlsx okuma",
+    "expected": "Hedefler: 6 kategori",
+    "source": "https://openpyxl.readthedocs.io/en/stable/tutorial.html",
+    "optional": true
+  },
+  {
+    "day": 4,
+    "file": "gun04/15_sorgu_csv_rapor.py",
+    "title": "Sorgu sonucunu CSV'ye yazma",
+    "expected": "Geri okunan toplam şikâyet: 600",
+    "source": "https://docs.python.org/3/library/sqlite3.html#sqlite3.Cursor.description",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/16_mini_proje.py",
+    "title": "Mini proje: CSV -> SQLite -> 3 soru -> rapor",
+    "expected": "Rapor: outputs/gun04/mini_proje_rapor.csv (3 soru)",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/16_mini_proje_bos.py",
+    "title": "Canlı kodlama iskeleti: mini proje",
+    "expected": "İskelet çalıştı: 600 şikâyet, 400 ölçüm, 6 hedef",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/cozumler_ek.py",
+    "title": "Gün 4 ek alıştırma çözümleri",
+    "expected": "İ3 Hiz_Olcumleri sayfası CSV ile aynı: True",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/db_yardimci.py",
+    "title": "Gün 4 yardımcı modülü ve kendi testi",
+    "expected": "db_yardimci modülü kendi testini geçti",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/01_standart_analiz.py",
+    "title": "Standart kütüphane ile analiz",
+    "expected": "Kapalı kayıt: 27",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/02_gruplama_rapor.py",
+    "title": "Gruplama ve CSV raporu",
+    "expected": "Rapor toplamı: 36",
+    "source": "https://docs.python.org/3/library/collections.html#collections.Counter",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/03_pandas_numpy_opsiyonel.py",
+    "title": "Pandas ve NumPy ile aynı analiz",
+    "expected": "Kapalı kayıt: 27",
+    "source": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/04_excel_opsiyonel.py",
+    "title": "Excel yazma ve yeniden okuma",
+    "expected": "Excel'den okunan kayıt: 36",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/05_veri_temizleme.py",
+    "title": "Eksik tekrar tarih ve sayı denetimi",
+    "expected": "Temiz kayıt: 3",
+    "source": "https://docs.python.org/3/library/datetime.html#datetime.date.fromisoformat",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/06_pandas_temizleme_opsiyonel.py",
+    "title": "Pandas ile hataları görünür kılma",
+    "expected": "Temiz kayıt: 3",
+    "source": "https://pandas.pydata.org/docs/user_guide/missing_data.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/07_analiz_dusuncesi.py",
+    "title": "Analiz düşüncesi ve tanımlayıcı istatistik (statistics)",
+    "expected": "Çözülen şikâyet: 415",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/08_hiz_standart.py",
+    "title": "Hız ölçümleri: liste ile toplu işlem ve maske (NumPy B planı)",
+    "expected": "Paketin %80'inin altında: 278 ölçüm",
+    "source": "https://docs.python.org/3/library/statistics.html#statistics.quantiles",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/09_numpy_opsiyonel.py",
+    "title": "NumPy: dizi, vektörel işlem, maske, percentile, where",
+    "expected": "Kontrol: statistics ile NumPy aynı sonucu verdi.",
+    "source": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/10_pandas_ilk_bakis_opsiyonel.py",
+    "title": "pandas ilk bakış: okuma, inceleme, filtre, sıralama, yeni sütun",
+    "expected": "İstanbul + Kesinti: 16 şikâyet",
+    "source": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/11_pandas_gruplama_opsiyonel.py",
+    "title": "pandas: groupby, pivot_table, merge (DÜŞEYARA), tarih",
+    "expected": "Hedef aşım oranı (genel): %39.8",
+    "source": "https://pandas.pydata.org/docs/user_guide/groupby.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/12_standart_filtre_grup.py",
+    "title": "Paketsiz filtre, gruplama, çapraz tablo, DÜŞEYARA, aylık sayım",
+    "expected": "Hedef aşım oranı (genel): %39.8",
+    "source": "https://docs.python.org/3/library/collections.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/13_eksik_veri_opsiyonel.py",
+    "title": "pandas: eksik veri (isna, dropna, fillna) ve tekrar",
+    "expected": "Yanlış (boş=0): 8.01",
+    "source": "https://pandas.pydata.org/docs/user_guide/missing_data.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/14_kirli_veri_standart.py",
+    "title": "Paketsiz eksik veri ve kirli veri temizleme",
+    "expected": "Temiz kayıt: 20",
+    "source": "https://docs.python.org/3/library/stdtypes.html#str.strip",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/15_kirli_veri_opsiyonel.py",
+    "title": "pandas ile kirli veri temizleme (strip, title, to_numeric)",
+    "expected": "İncelenecek şikâyet no: [10033, 10042, 10253, 10331, 10586]",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/16_excel_oku_yaz_opsiyonel.py",
+    "title": "Excel: çok sayfa okuma ve ExcelWriter ile çok sayfalı rapor",
+    "expected": "Yazılan sayfalar: ['Özet', 'Pivot', 'Detay']",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.ExcelWriter.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/17_xlsx_standart.py",
+    "title": "Paketsiz xlsx okuma ve Türkçe Excel uyumlu CSV",
+    "expected": "Kontrol: Excel ve CSV aynı 600 kaydı içeriyor.",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/18_karne_bos.py",
+    "title": "Mini proje iskeleti: operatör karnesi (canlı kodlama)",
+    "expected": "İSKELET: TODO'ları doldurun.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/19_karne_standart.py",
+    "title": "Mini proje: operatör performans karnesi (CSV, B planı)",
+    "expected": "Karne yazıldı: outputs/gun05/operator_karnesi.csv",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/20_karne_opsiyonel.py",
+    "title": "Mini proje: operatör karnesi Excel raporu ve iki yol kontrolü",
+    "expected": "KONTROL: pandas ve standart kütüphane AYNI sonucu verdi",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_excel.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/cozumler_ek.py",
+    "title": "Gün 5 ek alıştırma çözümleri",
+    "expected": "Ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/01_metin_grafigi.py",
+    "title": "Grafiğe giriş: metin sütunları",
+    "expected": "Her # bir başvurudur.",
+    "source": "https://docs.python.org/3/library/collections.html#collections.Counter",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/02_svg_grafik.py",
+    "title": "Paketsiz SVG sütun grafiği",
+    "expected": "Grafik: outputs/gun06/kategori.svg",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/03_matplotlib_opsiyonel.py",
+    "title": "Matplotlib ile sütun grafiği",
+    "expected": "PNG kaydedildi.",
+    "source": "https://matplotlib.org/stable/tutorials/pyplot.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/04_seaborn_opsiyonel.py",
+    "title": "Seaborn ile süre dağılımı",
+    "expected": "Histogram kaydedildi.",
+    "source": "https://seaborn.pydata.org/tutorial/distributions.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/05_zaman_serisi_svg.py",
+    "title": "Tarihe göre çizgi grafiği",
+    "expected": "Gün sayısı: 28",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/polyline",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/06_grafik_secimi.py",
+    "title": "Hangi soru, hangi grafik?",
+    "expected": "Sonuç: grafik türünü soru belirler.",
+    "source": "https://docs.python.org/3/library/collections.html#collections.Counter",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/07_ilk_grafik_bos_opsiyonel.py",
+    "title": "Canlı kodlama iskeleti: ilk matplotlib grafiği",
+    "expected": "İskelet çalıştı: outputs/gun06/07_iskelet.png",
+    "source": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/07_ilk_grafik_opsiyonel.py",
+    "title": "Matplotlib: figure/axes, bar, bar_label, savefig",
+    "expected": "Grafik kaydedildi: outputs/gun06/07_kategori_bar.png",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.bar_label.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/08_sirali_barh_opsiyonel.py",
+    "title": "Sıralı yatay çubuk ve vurgu rengi",
+    "expected": "En yoğun il: İstanbul (185)",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.barh.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/09_cizgi_trend_opsiyonel.py",
+    "title": "Çizgi grafiği: aylık şikâyet trendi",
+    "expected": "En yoğun ay: Haz (87 şikâyet)",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.plot.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/10_histogram_opsiyonel.py",
+    "title": "Histogram: indirme hızı dağılımı",
+    "expected": "Ortalama: 77.9 Mbps, medyan: 51.0 Mbps",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hist.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/11_boxplot_opsiyonel.py",
+    "title": "Kutu grafiği: teknolojiye göre hız",
+    "expected": "Fiber medyan: 142.4 Mbps",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/12_scatter_opsiyonel.py",
+    "title": "Serpme grafiği ve y=x referans çizgisi",
+    "expected": "Grafik kaydedildi: outputs/gun06/12_paket_vs_olculen.png",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.scatter.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/13_dashboard_opsiyonel.py",
+    "title": "Tek sayfada 2x2 dashboard",
+    "expected": "Dashboard kaydedildi: outputs/gun06/13_dashboard.png",
+    "source": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/14_seaborn_temel_opsiyonel.py",
+    "title": "Seaborn: countplot, barplot, histplot, boxplot",
+    "expected": "Seaborn grafikleri kaydedildi: outputs/gun06/14_seaborn_dortlu.png",
+    "source": "https://seaborn.pydata.org/tutorial.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/15_seaborn_heatmap_opsiyonel.py",
+    "title": "Isı haritası: il x kategori, adet ve oran",
+    "expected": "Kapsama payı en yüksek il: Erzurum (%17.6)",
+    "source": "https://seaborn.pydata.org/generated/seaborn.heatmap.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/16_pandas_plot_opsiyonel.py",
+    "title": "pandas .plot() kısayolu",
+    "expected": "pandas grafikleri kaydedildi: outputs/gun06/16_pandas_plot.png",
+    "source": "https://pandas.pydata.org/docs/user_guide/visualization.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/17_svg_cizgi_aylik.py",
+    "title": "B planı: paketsiz çizgi grafiği",
+    "expected": "Ay sayısı: 9, toplam: 600",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/polyline",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/18_svg_yatay_bar.py",
+    "title": "B planı: paketsiz sıralı yatay çubuk",
+    "expected": "En yoğun il: İstanbul (185)",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/rect",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/19_html_dashboard.py",
+    "title": "B planı: HTML dashboard (SVG + tablo)",
+    "expected": "Dashboard: outputs/gun06/19_dashboard.html",
+    "source": "https://docs.python.org/3/library/html.html",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/cozumler_ek.py",
+    "title": "Gün 6 ek alıştırma çözümleri (paketsiz)",
+    "expected": "Gün 6 ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 6,
+    "file": "gun06/cozumler_ek_opsiyonel.py",
+    "title": "Gün 6 ek alıştırma çözümleri (matplotlib)",
+    "expected": "Gün 6 matplotlib çözümleri tamamlandı.",
+    "source": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "optional": true
+  },
+  {
+    "day": 6,
+    "file": "gun06/svg_cizim.py",
+    "title": "B planı: hazır SVG çizim fonksiyonları",
+    "expected": "SVG yardımcı deneme: outputs/gun06/svg_deneme.svg",
+    "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/01_analiz_pipeline.py",
+    "title": "Bütünleşik analiz: oku doğrula özetle yaz",
+    "expected": "Analiz tamamlandı: 36 kayıt",
+    "source": "https://docs.python.org/3/library/json.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/02_html_rapor.py",
+    "title": "Paketsiz paylaşılabilir HTML raporu",
+    "expected": "Rapor: outputs/gun07/rapor.html",
+    "source": "https://docs.python.org/3/library/html.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/03_parametreli_script.py",
+    "title": "Komut satırından rapor parametresi",
+    "expected": "Birim A: 12 kayıt",
+    "source": "https://docs.python.org/3/library/argparse.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/04_streamlit_opsiyonel.py",
+    "title": "İsteğe bağlı Streamlit paneli",
+    "expected": "Panel verisi: 36",
+    "source": "https://docs.streamlit.io/get-started",
+    "optional": true
+  },
+  {
+    "day": 7,
+    "file": "gun07/05_hazir_script_uyarlama.py",
+    "title": "Hazır scripti AYARLAR bölümünden uyarlama",
+    "expected": "Liste: outputs/gun07/05_esik_asanlar.csv",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/06_filtre_parametreleri.py",
+    "title": "argparse: --il, --operator, --baslangic, --bitis",
+    "expected": "Eşleşen kayıt: 600",
+    "source": "https://docs.python.org/3/library/argparse.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/06_filtre_parametreleri_bos.py",
+    "title": "Canlı kodlama iskeleti: argparse filtreleri",
+    "expected": "Eşleşen kayıt: 600",
+    "source": "https://docs.python.org/3/library/argparse.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/07_pipeline_stdlib.py",
+    "title": "Uçtan uca pipeline (stdlib): oku-temizle-SQLite-rapor",
+    "expected": "Rapor: outputs/gun07/rapor_stdlib.html",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/08_pipeline_pandas_opsiyonel.py",
+    "title": "Uçtan uca pipeline (pandas+matplotlib)",
+    "expected": "Rapor: outputs/gun07/rapor_pandas.html",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_sql.html",
+    "optional": true
+  },
+  {
+    "day": 7,
+    "file": "gun07/09_iki_yol_karsilastir_opsiyonel.py",
+    "title": "İki yolun aynı ana sayıları ürettiğini doğrulama",
+    "expected": "Sonuç: iki yol AYNI ana sayıları üretti.",
+    "source": "https://docs.python.org/3/library/subprocess.html",
+    "optional": true
+  },
+  {
+    "day": 7,
+    "file": "gun07/basit_xlsx.py",
+    "title": "B planı: paketsiz .xlsx okuma/yazma",
+    "expected": "basit_xlsx deneme: yaz-oku tutarlı",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/cozumler_ek.py",
+    "title": "Gün 7 ek alıştırma çözümleri",
+    "expected": "Gün 7 ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/library/unittest.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart1_kapsama_iller.py",
+    "title": "Proje kartı 1: Kapsama şikâyetleri hangi illerde yoğun?",
+    "expected": "Pay olarak en yoğun il: Erzurum (%17.6)",
+    "source": "https://docs.python.org/3/library/collections.html#collections.Counter",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart2_fiber_vaat.py",
+    "title": "Proje kartı 2: Fiber paketler vaat edilen hızı veriyor mu?",
+    "expected": "Fiber ölçüm: 139 | %80 eşiğini geçen: %24",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart3_kanal_cozum.py",
+    "title": "Proje kartı 3: Hangi kanal daha hızlı çözüm alıyor?",
+    "expected": "En hızlı kanal (ortalama): Çağrı Merkezi 9.27 gün",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 7,
+    "file": "gun07/projeler/kart4_hedef_asimi.py",
+    "title": "Proje kartı 4: Hedef süre aşımı operatörlere göre",
+    "expected": "Hedef aşım oranı en yüksek operatör: Operatör C",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 8,
+    "file": "ai_gunu/01_dogru_cevaplar.py",
+    "title": "AI cevaplarını Python ile doğrulama",
+    "expected": "Kontrol tamam: 5 soru cevaplandı.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  }
+]

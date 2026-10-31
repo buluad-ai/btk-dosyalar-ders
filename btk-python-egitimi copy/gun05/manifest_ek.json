@@ -1,0 +1,122 @@
+[
+  {
+    "day": 5,
+    "file": "gun05/07_analiz_dusuncesi.py",
+    "title": "Analiz düşüncesi ve tanımlayıcı istatistik (statistics)",
+    "expected": "Çözülen şikâyet: 415",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/08_hiz_standart.py",
+    "title": "Hız ölçümleri: liste ile toplu işlem ve maske (NumPy B planı)",
+    "expected": "Paketin %80'inin altında: 278 ölçüm",
+    "source": "https://docs.python.org/3/library/statistics.html#statistics.quantiles",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/09_numpy_opsiyonel.py",
+    "title": "NumPy: dizi, vektörel işlem, maske, percentile, where",
+    "expected": "Kontrol: statistics ile NumPy aynı sonucu verdi.",
+    "source": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/10_pandas_ilk_bakis_opsiyonel.py",
+    "title": "pandas ilk bakış: okuma, inceleme, filtre, sıralama, yeni sütun",
+    "expected": "İstanbul + Kesinti: 16 şikâyet",
+    "source": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/11_pandas_gruplama_opsiyonel.py",
+    "title": "pandas: groupby, pivot_table, merge (DÜŞEYARA), tarih",
+    "expected": "Hedef aşım oranı (genel): %39.8",
+    "source": "https://pandas.pydata.org/docs/user_guide/groupby.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/12_standart_filtre_grup.py",
+    "title": "Paketsiz filtre, gruplama, çapraz tablo, DÜŞEYARA, aylık sayım",
+    "expected": "Hedef aşım oranı (genel): %39.8",
+    "source": "https://docs.python.org/3/library/collections.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/13_eksik_veri_opsiyonel.py",
+    "title": "pandas: eksik veri (isna, dropna, fillna) ve tekrar",
+    "expected": "Yanlış (boş=0): 8.01",
+    "source": "https://pandas.pydata.org/docs/user_guide/missing_data.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/14_kirli_veri_standart.py",
+    "title": "Paketsiz eksik veri ve kirli veri temizleme",
+    "expected": "Temiz kayıt: 20",
+    "source": "https://docs.python.org/3/library/stdtypes.html#str.strip",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/15_kirli_veri_opsiyonel.py",
+    "title": "pandas ile kirli veri temizleme (strip, title, to_numeric)",
+    "expected": "İncelenecek şikâyet no: [10033, 10042, 10253, 10331, 10586]",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/16_excel_oku_yaz_opsiyonel.py",
+    "title": "Excel: çok sayfa okuma ve ExcelWriter ile çok sayfalı rapor",
+    "expected": "Yazılan sayfalar: ['Özet', 'Pivot', 'Detay']",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.ExcelWriter.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/17_xlsx_standart.py",
+    "title": "Paketsiz xlsx okuma ve Türkçe Excel uyumlu CSV",
+    "expected": "Kontrol: Excel ve CSV aynı 600 kaydı içeriyor.",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/18_karne_bos.py",
+    "title": "Mini proje iskeleti: operatör karnesi (canlı kodlama)",
+    "expected": "İSKELET: TODO'ları doldurun.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/19_karne_standart.py",
+    "title": "Mini proje: operatör performans karnesi (CSV, B planı)",
+    "expected": "Karne yazıldı: outputs/gun05/operator_karnesi.csv",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 5,
+    "file": "gun05/20_karne_opsiyonel.py",
+    "title": "Mini proje: operatör karnesi Excel raporu ve iki yol kontrolü",
+    "expected": "KONTROL: pandas ve standart kütüphane AYNI sonucu verdi",
+    "source": "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_excel.html",
+    "optional": true
+  },
+  {
+    "day": 5,
+    "file": "gun05/cozumler_ek.py",
+    "title": "Gün 5 ek alıştırma çözümleri",
+    "expected": "Ek çözümler tamamlandı.",
+    "source": "https://docs.python.org/3/library/statistics.html",
+    "optional": false
+  }
+]

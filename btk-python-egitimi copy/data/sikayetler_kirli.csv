@@ -1,0 +1,27 @@
+sikayet_no,tarih,il,operator,hizmet,kategori,kanal,durum,cozum_suresi_gun,memnuniyet,itiraz_tutari_tl
+10507,2026-01-01,İstanbul,Operatör A,Sabit İnternet,Kesinti,e-Devlet,Reddedildi,7,2,
+10527,2026-01-02,Ankara,Operatör A,Sabit İnternet,Fatura,e-Devlet,Çözüldü,10,3,2404.26
+10550,2026-01-03, ankara ,Operatör A,Mobil,İnternet Hızı,Web,İşlemde,,,
+10045,2026-01-05,Konya,Operatör C,Sabit İnternet,Fatura,Çağrı Merkezi,Çözüldü,3,5,1952.36
+10076,2026-01-05,İstanbul,operatör a,Sabit İnternet,İnternet Hızı,Dilekçe,Çözüldü,8,3,
+10416,2026-01-05,İstanbul,Operatör B,Mobil,Taahhüt/İptal,Çağrı Merkezi,Çözüldü,11,3,
+10253,2026-01-06,İzmir,Operatör B,Mobil,Kapsama,Çağrı Merkezi,Çözüldü,on iki,3,
+10290,2026-01-06,Erzurum,Operatör A,Mobil,Numara Taşıma,e-Devlet,Çözüldü,2,5,
+10331,31.02.2026,Ankara,Operatör D,Sabit İnternet,İnternet Hızı,e-Devlet,İşlemde,,,
+10477,2026-01-07,Antalya,Operatör A,Mobil,Fatura,Web,Çözüldü,2,4,826.66
+10586,2026-01-07,İzmir,Operatör C,Mobil,Numara Taşıma,Web,Çözüldü,8,7,
+10530,2026-01-08,Erzurum,Operatör B,Sabit Telefon,Taahhüt/İptal,Çağrı Merkezi,Çözüldü,13,2,
+10042,2026-01-10,İstanbul,Operatör C,Sabit İnternet,Fatura,Web,İşlemde,-3,,1754.22
+10520,2026-01-10,İstanbul,Operatör C,Sabit İnternet,Taahhüt/İptal,Web,Çözüldü,17,2,
+10567,2026-01-10,Ankara,Operatör A,Sabit İnternet,İnternet Hızı,Çağrı Merkezi,Çözüldü,11,2,
+10033,2026-01-11,İstanbul,Operatör A,Sabit İnternet,,Web,Reddedildi,12,1,
+10120,2026-01-12,Antalya,Operatör B,Sabit İnternet,İnternet Hızı,Web,Çözüldü,13,4,
+10569,2026-01-12,Konya,Operatör B,Sabit Telefon,Fatura,Web,İşlemde,,,212.24
+10124,2026-01-13,İstanbul,Operatör C,Sabit İnternet,İnternet Hızı,Çağrı Merkezi,İşlemde,,,
+10166,2026-01-13,Ankara,Operatör D,Sabit İnternet,Kesinti,Web,Çözüldü,2,5,
+10425,2026-01-13,Ankara,Operatör A,Mobil,Kapsama,Web,Çözüldü,21,1,
+10518,2026-01-13,İstanbul,Operatör A,Mobil,Kapsama,Web,İşlemde,,,
+10190,2026-01-14,Bursa,Operatör A,Sabit İnternet,Kesinti,Web,Reddedildi,3,2,
+10035,2026-01-15,Ankara,Operatör A,Sabit İnternet,Fatura,Web,Çözüldü,10,3,411.82
+10096,2026-01-15,İzmir,Operatör B,Mobil,İnternet Hızı,Web,Reddedildi,11,2,
+10527,2026-01-02,Ankara,Operatör A,Sabit İnternet,Fatura,e-Devlet,Çözüldü,10,3,2404.26

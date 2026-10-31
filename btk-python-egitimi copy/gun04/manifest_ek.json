@@ -1,0 +1,122 @@
+[
+  {
+    "day": 4,
+    "file": "gun04/db_yardimci.py",
+    "title": "Gün 4 yardımcı modülü ve kendi testi",
+    "expected": "db_yardimci modülü kendi testini geçti",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/05_veri_modeli_sikayet.py",
+    "title": "Tablo, birincil anahtar ve 1-N ilişki",
+    "expected": "Birincil anahtar tekil: 600/600",
+    "source": "https://www.sqlite.org/lang_createtable.html#the_primary_key",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/06_sikayet_sinifi.py",
+    "title": "Sikayet sınıfı ve dataclass",
+    "expected": "Hedefi aşan çözülmüş şikâyet: 165",
+    "source": "https://docs.python.org/3/tutorial/classes.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/07_sqlite_yukleme.py",
+    "title": "CREATE TABLE ve executemany ile toplu yükleme",
+    "expected": "NULL çözüm süresi: 96",
+    "source": "https://docs.python.org/3/library/sqlite3.html#sqlite3.Cursor.executemany",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/08_select_where_order.py",
+    "title": "SELECT, WHERE, ORDER BY, LIMIT",
+    "expected": "Ankara'da çözülen fatura şikâyeti: 19",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/09_toplama_gruplama.py",
+    "title": "COUNT/AVG/SUM, GROUP BY ve HAVING",
+    "expected": "100'den fazla şikâyeti olan il sayısı: 2",
+    "source": "https://www.sqlite.org/lang_aggfunc.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/10_join_hedefler.py",
+    "title": "JOIN ve LEFT JOIN: DÜŞEYARA'nın SQL hâli",
+    "expected": "Hedefi en sık aşılan kategori: İnternet Hızı",
+    "source": "https://www.sqlite.org/lang_select.html#the_from_clause",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/11_update_delete_guvenli.py",
+    "title": "Kopya üzerinde UPDATE, DELETE ve rollback",
+    "expected": "Asıl veritabanı değişmedi: 600 şikâyet",
+    "source": "https://www.sqlite.org/lang_update.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/12_sql_injection_parametre.py",
+    "title": "Parametreli sorgu ve SQL injection",
+    "expected": "Kötü girdi -> Parametreli sorgu: 0 satır",
+    "source": "https://docs.python.org/3/library/sqlite3.html#sqlite3-placeholders",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/13_excel_stdlib_okuma.py",
+    "title": "Paketsiz .xlsx okuma (zipfile + xml)",
+    "expected": "Hedefler: 6 kategori",
+    "source": "https://docs.python.org/3/library/zipfile.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/14_excel_openpyxl_opsiyonel.py",
+    "title": "openpyxl ile .xlsx okuma",
+    "expected": "Hedefler: 6 kategori",
+    "source": "https://openpyxl.readthedocs.io/en/stable/tutorial.html",
+    "optional": true
+  },
+  {
+    "day": 4,
+    "file": "gun04/15_sorgu_csv_rapor.py",
+    "title": "Sorgu sonucunu CSV'ye yazma",
+    "expected": "Geri okunan toplam şikâyet: 600",
+    "source": "https://docs.python.org/3/library/sqlite3.html#sqlite3.Cursor.description",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/16_mini_proje_bos.py",
+    "title": "Canlı kodlama iskeleti: mini proje",
+    "expected": "İskelet çalıştı: 600 şikâyet, 400 ölçüm, 6 hedef",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/16_mini_proje.py",
+    "title": "Mini proje: CSV -> SQLite -> 3 soru -> rapor",
+    "expected": "Rapor: outputs/gun04/mini_proje_rapor.csv (3 soru)",
+    "source": "https://www.sqlite.org/lang_select.html",
+    "optional": false
+  },
+  {
+    "day": 4,
+    "file": "gun04/cozumler_ek.py",
+    "title": "Gün 4 ek alıştırma çözümleri",
+    "expected": "İ3 Hiz_Olcumleri sayfası CSV ile aynı: True",
+    "source": "https://docs.python.org/3/library/sqlite3.html",
+    "optional": false
+  }
+]
