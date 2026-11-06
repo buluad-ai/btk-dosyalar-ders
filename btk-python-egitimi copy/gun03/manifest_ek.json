@@ -1,0 +1,114 @@
+[
+  {
+    "day": 3,
+    "file": "gun03/05_fonksiyon_parametreleri.py",
+    "title": "Varsayılan parametre, return ve çoklu dönüş",
+    "expected": "KDV dahil: 1200.00 TL",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#default-argument-values",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/06_hazir_moduller.py",
+    "title": "Standart kütüphane: math, statistics, random, pathlib",
+    "expected": "Gereken sayfa: 13",
+    "source": "https://docs.python.org/3/tutorial/stdlib.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/yardimcilar.py",
+    "title": "Kendi modülümüz ve kendi kendine testi",
+    "expected": "yardimcilar modülü kendi testini geçti",
+    "source": "https://docs.python.org/3/tutorial/modules.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/07_kendi_modulum.py",
+    "title": "Kendi modülünü import etmek",
+    "expected": "Şikâyet sayısı: 600",
+    "source": "https://docs.python.org/3/tutorial/modules.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/08_tarihler.py",
+    "title": "datetime ile gün farkı, ay ve hafta günü",
+    "expected": "En yoğun ay: Haziran",
+    "source": "https://docs.python.org/3/library/datetime.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/09_log_dosyasi.py",
+    "title": "Metin dosyası yazma kipleri ve log",
+    "expected": "UYARI satırı: 2",
+    "source": "https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/10_sikayet_csv_okuma.py",
+    "title": "Büyük CSV, tür dönüşümü ve boş hücre",
+    "expected": "Toplam şikâyet: 600",
+    "source": "https://docs.python.org/3/library/csv.html#csv.DictReader",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/11_csv_filtrele_yaz.py",
+    "title": "Filtreleyip Excel uyumlu CSV yazma",
+    "expected": "Geri okunan satır: 24",
+    "source": "https://docs.python.org/3/library/csv.html#csv.DictWriter",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/12_json_okuma_yazma.py",
+    "title": "JSON özet yazma ve geri okuma",
+    "expected": "JSON geri okundu: 8 il",
+    "source": "https://docs.python.org/3/library/json.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/13_hatali_satirlar.py",
+    "title": "try/except/else/finally ile kirli veri",
+    "expected": "Temiz: 20, Hatalı: 6",
+    "source": "https://docs.python.org/3/tutorial/errors.html#handling-exceptions",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/14_parametreli_script.py",
+    "title": "sys.argv ile parametreli script",
+    "expected": "Ankara: 107 şikâyet",
+    "source": "https://docs.python.org/3/library/sys.html#sys.argv",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/15_mini_sla_raporu_bos.py",
+    "title": "Canlı kodlama iskeleti: SLA raporu",
+    "expected": "İskelet çalıştı: 600 kayıt okundu",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/15_mini_sla_raporu.py",
+    "title": "Mini proje: kategori bazında SLA raporu",
+    "expected": "Toplam çözülen: 415",
+    "source": "https://docs.python.org/3/library/csv.html",
+    "optional": false
+  },
+  {
+    "day": 3,
+    "file": "gun03/cozumler_ek.py",
+    "title": "Gün 3 ek alıştırma çözümleri",
+    "expected": "İ3 İş günü (02.03.2026-16.03.2026): 11",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+    "optional": false
+  }
+]
